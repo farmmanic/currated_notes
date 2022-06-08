@@ -1,0 +1,17 @@
+#ansible_cheatsheet
+
+https://github.com/farmmanic/cheat-sheet-pdf
+
+#ansible_docker
+https://github.com/nickjj/ansible-docker
+
+
+https://github.com/fboender/ansible-cmdb
+
+#ansible_playbooks
+https://github.com/geerlingguy/ansible-role-security
+https://github.com/farmmanic/pfelk
+https://github.com/dev-sec/ansible-collection-hardening
+
+#core_linux_utilities
+https://github.com/farmmanic/utilities
